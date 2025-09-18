@@ -1,0 +1,4 @@
+root = true # Define a raiz do .editor, é possível usar para cada nível
+[*]  # Aplica para todos arquivos
+indent_style = space # Define o estilo da identação
+indent_size = 2  # Define a quantidade de espaços
